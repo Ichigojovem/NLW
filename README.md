@@ -11,6 +11,9 @@ Conhecendo mais sobre o mundo Dev, primeiros passos e portifolio feito pelo pró
 ## :D Tecnologias
 
 iniciando com as liguagens pade programação
+
 -HTML
+
 -CSS
+
 -GIT & GITHUB
