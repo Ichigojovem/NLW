@@ -6,7 +6,7 @@
 
 Conhecendo mais sobre o mundo Dev, primeiros passos e portifolio feito pelo próprio autor
 
-[Click aqui para acessar](https://ichigojovem.github.io/NLW---ESports/)
+[Click aqui para acessar](https://MatheusRodrigues-Dev.github.io/NLW---ESports/)
 
 ## :D Tecnologias
 
